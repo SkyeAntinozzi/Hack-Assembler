@@ -1,1 +1,1 @@
-linguist-language=C++
+*.asm linguist-language=C++
